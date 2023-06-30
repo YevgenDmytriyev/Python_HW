@@ -1,2 +1,2 @@
-# Python_HW
+# Python
 Education
